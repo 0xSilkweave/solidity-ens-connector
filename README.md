@@ -1,9 +1,12 @@
-# Solana ENS Connector
+# Ethereum ENS Connector
 
 ### **Welcome 👋**
-Quick follow-through for connecting a React app to the Solana blockchain.
+Quick follow-through for connecting a React app to the Ethereum blockchain plus integrating ENS domain.
 
-1. -
+Just for testing purposes.
+
+1. npm run dev
+2. Enjoy!
 
 ---
 
