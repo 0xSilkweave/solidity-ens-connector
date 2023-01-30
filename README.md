@@ -1,12 +1,14 @@
 # Ethereum ENS Connector
 
 ### **Welcome 👋**
-Quick follow-through for connecting a React app to the Ethereum blockchain plus integrating ENS domain.
+Quick follow-through for connecting a React app to the Ethereum (Goerli) blockchain plus integrating ENS domain.
 
 Just for testing purposes.
 
 1. npm run dev
 2. Enjoy!
+
+P.S. you can easily switch network connect, by updating <strong>index.js</strong> goerli to a different chain.
 
 ---
 
