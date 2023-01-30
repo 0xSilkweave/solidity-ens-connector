@@ -3,10 +3,10 @@
 ### **Welcome 👋**
 Quick follow-through for connecting a React app to the Ethereum blockchain plus integrating ENS domain.
 
-1. create-next-app@latest
-2. npm run dev
-3. npm install web3modal
-4. npm install ethers
+Just for testing purposes.
+
+1. npm run dev
+2. Enjoy!
 
 ---
 
