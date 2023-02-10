@@ -32,8 +32,10 @@ I'm 0xSilkweave, a front-end developer and Web3 enthusiast.
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/0xSilkweave/0xSilkweave/raw/main/logos/react-colored.svg" width="36" height="42" alt="React" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/0xSilkweave/0xSilkweave/raw/main/logos/html5-original.svg" width="36" height="42" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/0xSilkweave/0xSilkweave/raw/main/logos/css3-original.svg" width="36" height="42" alt="CSS3" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/0xSilkweave/0xSilkweave/raw/main/logos/figma-colored.svg" width="36" height="42" alt="Figma" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/0xSilkweave/0xSilkweave/raw/main/logos/tailwindcss-colored.svg" width="36" height="42" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/0xSilkweave/0xSilkweave/raw/main/logos/bootstrap-original.svg" width="36" height="42" alt="Bootstrap" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/0xSilkweave/0xSilkweave/raw/main/logos/vite.svg" width="36" height="42" alt="Vite" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/0xSilkweave/0xSilkweave/raw/main/logos/nodejs-colored.svg" width="36" height="42" alt="NodeJS" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/0xSilkweave/0xSilkweave/raw/main/logos/firebase-colored.svg" width="36" height="42" alt="Firebase" /></a>
 <a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://github.com/0xSilkweave/0xSilkweave/raw/main/logos/alchemy-colored.svg" width="36" height="42" alt="Alchemy" /></a>
